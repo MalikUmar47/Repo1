@@ -8,7 +8,7 @@ import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import { Container, Header, Content,Icon, Footer, FooterTab, Badge, Right ,Picker, Left,Button} from 'native-base';
-import Connection from "../connection" ;
+
 
 import RBSheet from "react-native-raw-bottom-sheet";
 import styles from './styles';
